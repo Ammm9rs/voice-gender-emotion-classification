@@ -1,7 +1,4 @@
 # Voice-gender-emotion-classification
-ML models for gender and emotion recognition from voice
-
-
 ML models to classify **gender** and **emotion** from voice recordings.
 
 ## Results
