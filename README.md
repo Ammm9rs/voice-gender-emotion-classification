@@ -1,6 +1,6 @@
-# voice-gender-emotion-classification
+# Voice-gender-emotion-classification
 ML models for gender and emotion recognition from voice
-# Voice Gender & Emotion Classification
+
 
 ML models to classify **gender** and **emotion** from voice recordings.
 
