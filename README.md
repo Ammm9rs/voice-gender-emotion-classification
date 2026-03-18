@@ -1,4 +1,4 @@
-# Voice Gender & Emotion Classification
+# Gender & Emotion Classification using voice
 
 ML models to classify **gender** and **emotion** from voice recordings.
 
